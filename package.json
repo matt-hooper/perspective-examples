@@ -1,0 +1,19 @@
+{
+  "name": "perspective-examples",
+  "version": "1.0.0",
+  "description": "examples using perspectivejs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/matt-hooper/perspective-examples.git",
+  "author": "matt-hooper",
+  "license": "MIT",
+  "dependencies": {
+    "@jpmorganchase/perspective": "^0.2.11",
+    "flatbuffers": "^1.10.2",
+    "text-encoding-utf-8": "^1.0.2",
+    "tslib": "^1.9.3",
+    "ws": "^6.1.2"
+  }
+}
